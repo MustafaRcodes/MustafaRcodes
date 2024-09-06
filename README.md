@@ -5,9 +5,13 @@ experiance, I am passionate about advancing my career in the world of data. My f
   
 - 🌱 Technical Skills:
 •Data manipulation and DBA: MySQL, Microsoft SQL server (SSMS), T-SQL, PostgreSQL, Oracle, Databricks, Snowflake
+
 •Descriptive, Diagnostic and Prescriptive Analytics (Data visualization tools): Power BI, Transformation in Power Query, DAX, M code, Tabular Editor, Tableau
+
 •Programming language: Data Cleaning/preprocessing , SQL, python, R. Python libraries (Pandas, Numpy, Matplotlib, Seaborn, Stats models )
+
 •Predictive modeling and Machine Learning: Python (Scikit-learn, NLTK, TensorFlow, PyTorch and Pycaret for regression, classification, NLP, and clustering), Time Series, automated pipelines, ETL process automation. 
+
 •ETL and ELT: Azure Databricks, Azure Data Factory, Microsoft Fabric.
   
 - 🤝 I’m looking to collaborate on projects related to Data Analytics, Data Science, and Data Engineering.
