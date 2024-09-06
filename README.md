@@ -4,9 +4,10 @@ experiance, I am passionate about advancing my career in the world of data. My f
 - 👀 I believe in continuous learning and making small improvements every day, as it can have a significant impact on the final outcome.Just being 1% better every day for a year results in being 37.78 times better after a year, which is what motivates me.
   
 - 🌱 Technical Skills:
+
 •Data manipulation and DBA: MySQL, Microsoft SQL server (SSMS), T-SQL, PostgreSQL, Oracle, Databricks, Snowflake
 
-•Descriptive, Diagnostic and Prescriptive Analytics (Data visualization tools): Power BI, Transformation in Power Query, DAX, M code, Tabular Editor, Tableau
+•Descriptive, Diagnostic and Prescriptive Analytics (Data visualization tools): Power BI, Transformation in Power Query, Data Modeling, Cardinality, DAX, M code, Tabular Editor, Tableau
 
 •Programming language: Data Cleaning/preprocessing , SQL, python, R. Python libraries (Pandas, Numpy, Matplotlib, Seaborn, Stats models )
 
